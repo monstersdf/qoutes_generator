@@ -1,0 +1,23 @@
+.centers{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+.btncenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    border: 2px solid;
+    border-radius: 20px;
+    height: 30px;
+  width: auto;
+  border-color: mediumvioletred;  
+}
